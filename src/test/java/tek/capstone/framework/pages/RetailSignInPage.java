@@ -11,28 +11,40 @@ public class RetailSignInPage extends BaseSetup{
 	public RetailSignInPage() {
 		PageFactory.initElements(getDriver(), this);
 		}
+	
 	@FindBy(id = "email")
-	public WebElement emailfield;
+	public WebElement emailvalue;
 	
 	@FindBy(id = "password")
-	public WebElement passwordfield;
+	public WebElement passwordvalue;
 	
 	@FindBy(id = "loginBtn")
 	public WebElement loginBtn;
 	
-	@FindBy(id ="newAccountBtn")
-    public WebElement newAccountButton;
+	@FindBy(id = "newAccountBtn")
+	public WebElement newaccountbtn;
 	
-    @FindBy(id="nameInput")
-    public WebElement nameInput;
-    
-    @FindBy(id="emailInput")
-    public WebElement emailInput;
-    
-    @FindBy(id="passwordInput")
-    public WebElement passwordInput;
+	@FindBy(id = "nameInput")
+	public WebElement namefeild;
 	
+	@FindBy(id = "emailInput")
+	public WebElement emailfeild;
 	
+	@FindBy (id = "passwordInput")
+	public WebElement passworfeild;
 	
+	@FindBy(id = "confirmPasswordInput")
+	public WebElement confirmepassvalue;
+	
+	@FindBy(id = "signupBtn")
+	public WebElement signupBtn;
+	
+	@FindBy(id = "profileImage")
+	public WebElement profileImage;
+	
+	@FindBy(id = "accountLink")
+	public WebElement accountlink;
+	
+
 	}
 

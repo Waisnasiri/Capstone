@@ -103,7 +103,8 @@ public class CommonUtility extends BaseSetup {
 
 	public void selectByVisibleText(WebElement ale, String visibleText) {
 		Select select = new Select(ale);
-		select.deselectByVisibleText(visibleText);
+		select.selectByVisibleText(visibleText);
+		
 	}
 
 	public void deselectByIndex(WebElement ele, int index) {
