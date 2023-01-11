@@ -37,7 +37,7 @@ Then a cancelation message should be displayed 'Return was successful'
 @AddReview
 Scenario: Verify User can write a review on order placed
 And User click on Review button 
-And User write Review headline 'Ilike the quality of the prodict' and 'I recommend to buy this item again' 
+And User write Review headline 'Ilike the quality of the product' and 'I recommend to buy this item again' 
 And User click Add your Review button
 Then a review message should be displayed 'Your review was added successfully'
 

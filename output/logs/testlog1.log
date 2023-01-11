@@ -3589,3 +3589,65 @@
 2022-12-10 15:36:58,686 [main] INFO logger_File - user clicked on cart processed button
 2022-12-10 15:37:03,831 [main] INFO logger_File - user clicked on placed order button
 2022-12-10 15:37:04,325 [main] INFO logger_File - Order Placed Successfully
+2022-12-26 10:57:18,893 [main] INFO logger_File - React App is equal to React App
+2022-12-26 10:57:19,046 [main] INFO logger_File - User click on sign in option
+2022-12-26 10:57:24,336 [main] INFO logger_File - User can sign in with qais@gmail.comAnd Tek@12345
+2022-12-26 10:57:29,513 [main] INFO logger_File - User click on loging button
+2022-12-26 10:57:34,566 [main] INFO logger_File - user logged in into account
+2022-12-26 11:29:06,642 [main] INFO logger_File - React App is equal to React App
+2022-12-26 11:29:06,804 [main] INFO logger_File - User click on sign in option
+2022-12-26 11:29:12,160 [main] INFO logger_File - User can sign in with panthersxy40@tekschool.usAnd Tek@12345
+2022-12-26 11:29:17,295 [main] INFO logger_File - User click on loging button
+2022-12-26 11:29:22,441 [main] INFO logger_File - user logged in into account
+2022-12-26 11:29:27,579 [main] INFO logger_File - Electronics was selected from the drop down
+2022-12-26 11:29:27,742 [main] INFO logger_File - user entered Apex Legends
+2022-12-26 11:29:32,891 [main] INFO logger_File - user clicked on search button
+2022-12-26 11:29:38,027 [main] INFO logger_File - User click on items
+2022-12-26 11:29:38,912 [main] INFO logger_File - 5 was selected from the drop down
+2022-12-26 11:29:44,026 [main] INFO logger_File - User added the itmes into cart
+2022-12-26 11:29:44,161 [main] INFO logger_File - user clicked on cart button
+2022-12-26 11:29:45,430 [main] INFO logger_File - user clicked on cart processed button
+2022-12-26 11:29:50,552 [main] INFO logger_File - user clicked on placed order button
+2022-12-26 11:29:51,164 [main] INFO logger_File - Order Placed Successfully
+2022-12-26 11:29:56,399 [main] INFO logger_File - User clicked on ordersection
+2022-12-26 11:29:56,532 [main] INFO logger_File - user clicked on Review Button
+2022-12-26 11:30:02,138 [main] INFO logger_File - User wrote review not
+2022-12-26 11:30:12,324 [main] INFO logger_File - a review message displayed
+2023-01-10 17:15:29,548 [main] INFO logger_File - React App is equal to React App
+2023-01-10 17:15:29,685 [main] INFO logger_File - User click on sign in option
+2023-01-10 17:15:34,926 [main] INFO logger_File - User can sign in with panthersxy40@tekschool.usAnd Tek@12345
+2023-01-10 17:15:40,049 [main] INFO logger_File - User click on loging button
+2023-01-10 17:15:45,079 [main] INFO logger_File - user logged in into account
+2023-01-10 17:15:50,153 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-10 17:15:50,245 [main] INFO logger_File - user entered Apex Legends
+2023-01-10 17:15:55,340 [main] INFO logger_File - user clicked on search button
+2023-01-10 17:16:00,447 [main] INFO logger_File - User click on items
+2023-01-10 17:16:00,808 [main] INFO logger_File - 5 was selected from the drop down
+2023-01-10 17:16:05,916 [main] INFO logger_File - User added the itmes into cart
+2023-01-10 17:16:06,003 [main] INFO logger_File - user clicked on cart button
+2023-01-10 17:16:06,659 [main] INFO logger_File - user clicked on cart processed button
+2023-01-10 17:16:11,763 [main] INFO logger_File - user clicked on placed order button
+2023-01-10 17:16:12,228 [main] INFO logger_File - Order Placed Successfully
+2023-01-10 17:16:17,412 [main] INFO logger_File - User clicked on ordersection
+2023-01-10 17:16:17,519 [main] INFO logger_File - user clicked on Review Button
+2023-01-10 17:16:22,927 [main] INFO logger_File - User wrote review not
+2023-01-10 17:16:33,093 [main] INFO logger_File - a review message displayed
+2023-01-10 17:44:42,324 [main] INFO logger_File - React App is equal to React App
+2023-01-10 17:44:42,484 [main] INFO logger_File - User click on sign in option
+2023-01-10 17:44:47,893 [main] INFO logger_File - User can sign in with panthersxy40@tekschool.usAnd Tek@12345
+2023-01-10 17:44:53,001 [main] INFO logger_File - User click on loging button
+2023-01-10 17:44:58,032 [main] INFO logger_File - user logged in into account
+2023-01-10 17:45:03,143 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-10 17:45:03,238 [main] INFO logger_File - user entered Apex Legends
+2023-01-10 17:45:08,323 [main] INFO logger_File - user clicked on search button
+2023-01-10 17:45:13,421 [main] INFO logger_File - User click on items
+2023-01-10 17:45:13,837 [main] INFO logger_File - 5 was selected from the drop down
+2023-01-10 17:45:18,915 [main] INFO logger_File - User added the itmes into cart
+2023-01-10 17:45:19,006 [main] INFO logger_File - user clicked on cart button
+2023-01-10 17:45:19,698 [main] INFO logger_File - user clicked on cart processed button
+2023-01-10 17:45:24,799 [main] INFO logger_File - user clicked on placed order button
+2023-01-10 17:45:25,270 [main] INFO logger_File - Order Placed Successfully
+2023-01-10 17:45:30,457 [main] INFO logger_File - User clicked on ordersection
+2023-01-10 17:45:30,573 [main] INFO logger_File - user clicked on Review Button
+2023-01-10 17:45:36,139 [main] INFO logger_File - User wrote review not
+2023-01-10 17:45:46,284 [main] INFO logger_File - a review message displayed
